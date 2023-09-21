@@ -56,6 +56,64 @@ NameError: undefined local variable or method `undefined_variable' for main:Obje
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a sreenshot make sure it isn't a photo from your phone.
+
+> There are certain cases where it's oaky to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
+
+## Step 2 - How to take screenshots 
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not be confused with take a photo with your phone.
+
+**DON'T DO THIS**
+
+<img src="assets/not-a-screenshot.jpg" width="300px"/>
+
+This is what a screenshot should look like.
+
+<img src="assets/a-screenshot.JPG" width="300px"/>
+
+**DO THIS INSTEAD**
+
+Taking screenshots on both Mac and Windows is relatively straightforward. Here are the common methods for taking screenshots on each platform:
+
+**On Mac (macOS):**
+
+1. **Entire Screen:**
+   - Press `Command (⌘) + Shift + 3`. This captures the entire screen, and the screenshot will be saved as a file on your desktop by default.
+
+2. **Selected Area:**
+   - Press `Command (⌘) + Shift + 4`. This allows you to select a specific area of the screen for the screenshot. Click and drag to select the area, and the screenshot will be saved as a file on your desktop.
+
+3. **Specific Window:**
+   - Press `Command (⌘) + Shift + 4`, then press `Spacebar`. This allows you to capture a specific window. Click the window you want to capture, and the screenshot will be saved as a file on your desktop.
+
+4. **Screenshot to Clipboard:**
+   - To copy the screenshot to your clipboard instead of saving it as a file, add the `Control (⌃)` key to any of the above shortcuts. For example, `Command (⌘) + Control (⌃) + Shift + 3` to copy the entire screen to the clipboard.
+
+**On Windows:**
+
+1. **Entire Screen:**
+   - Press `PrtScn` (Print Screen) key. This captures the entire screen to the clipboard.
+
+2. **Active Window:**
+   - Press `Alt + PrtScn`. This captures only the currently active window to the clipboard.
+
+3. **Selected Area: (Windows 10 and later)**
+   - Press `Shift + Windows Key + S`. This allows you to select a specific area of the screen for the screenshot. After selecting the area, the screenshot is copied to the clipboard, and you can paste it into an application like Paint or Word.
+
+4. **Using Snipping Tool: (Windows 7 and later)**
+   - Search for "Snipping Tool" in the Start menu and open it. You can then use the Snipping Tool to capture specific areas of the screen and annotate or save the screenshot.
+
+5. **Using Snip & Sketch: (Windows 10 and later)**
+   - Search for "Snip & Sketch" in the Start menu and open it. This tool allows you to capture, annotate, and save or share screenshots.
+
+After taking a screenshot on Windows, you can paste it into an image editing program like Paint or an application like Microsoft Word to save or edit it.
+
+Keep in mind that the exact methods and shortcuts may vary slightly depending on the version of macOS or Windows you are using, but these are the most common methods for taking screenshots on both platforms.
+
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#references)
@@ -87,6 +145,19 @@ You can use the following markdown format to create tables:
 | Cloud with lighting | `:cloud_with_lightning:` | 🌩️|
 ~~~
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#references)
+
+- Make note of where the backtick key is located.
+- It should appear above the tab key,
+- but it may vary based on your keyboard layout.
+
+<img src="assets/backtick-char.webp" width="300px"/>
+
+- Make note of where the pipe key is located.
+- It should appear above the enter or return key,
+- but it may vary based on your keyboard layout.
+  
+<img src="assets/pipe-char.png" width="300px"/>
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
